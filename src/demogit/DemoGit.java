@@ -17,6 +17,8 @@ public class DemoGit {
     public static void main(String[] args) {
         HelloClass.hello();
         HelloClass.uqam();
+        System.out.print("ange");
+        
     }
     
 }
